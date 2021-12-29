@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "this is jenkins job "
+echo "work in the poll scm"
