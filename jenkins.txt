@@ -3,3 +3,4 @@
 echo "this is jenkins job "
 echo "work in the poll scm"
 echo "this is new job fix "
+echo "this is add in github"
